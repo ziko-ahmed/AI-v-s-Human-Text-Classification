@@ -37,22 +37,22 @@ The models developed are:
 **Exploratory Data Analysis (EDA)**
 
 ### Distribution of Human & AI Generated Text
-![Distribution of Human & AI Generated Text](../Images/Distribution_of_Human_AI-Generated_text.png)
+![Distribution of Human & AI Generated Text](./Images/Distribution_of_Human_AI-Generated_text.png)
 
 ### Distribution of Text Lengths
-![Distribution of Text Lengths](../Images/Text_Length.png)
+![Distribution of Text Lengths](./Images/Text_Length.png)
 
 ### Distribution of Word Counts
-![Distribution of Word Counts](../Images/Word_Count.png)
+![Distribution of Word Counts](./Images/Word_Count.png)
 
 ### Word Cloud for Human-Written text
-![Word Cloud for Human-Written text](../Images/word_cloud_human.png)
+![Word Cloud for Human-Written text](./Images/word_cloud_human.png)
 
 ### Word Cloud for AI-Generated text
-![Word Cloud for AI-Generated text](../Images/word_cloud_ai.png)
+![Word Cloud for AI-Generated text](./Images/word_cloud_ai.png)
 
 ### Overall Data Description
-![Overall Data Description](../Images/Data_Description.png)
+![Overall Data Description](./Images/Data_Description.png)
 
 ### Conclusions from EDA
 
@@ -81,10 +81,10 @@ The models developed are:
 **Model Performances**
 
 ### Model 1 (ANN Model) Performance Graphs
-![Model 1 (ANN Model) performance graphs](../Images/ANN_Performance.png)
+![Model 1 (ANN Model) performance graphs](./Images/ANN_Performance.png)
 
 ### Model 2 (LSTM MODEL) Performance Graphs
-![Model 2 (LSTM Model) performance graphs](../Images/LSTM_Performance.png)
+![Model 2 (LSTM Model) performance graphs](./Images/LSTM_Performance.png)
 
 
 **CONCLUSION**
