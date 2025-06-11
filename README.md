@@ -93,5 +93,5 @@ Both ANN and LSTM models were successfully built and trained to classify text as
 
 **Connect with Me**
 
-- [LinkedIn](www.linkedin.com/in/zulqarnain-ahmed)
+- [LinkedIn](https://www.linkedin.com/in/zulqarnain-ahmed)
 - [GitHub](https://github.com/ziko-ahmed)
