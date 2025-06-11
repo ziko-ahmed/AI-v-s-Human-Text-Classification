@@ -90,8 +90,3 @@ The models developed are:
 **CONCLUSION**
 
 Both ANN and LSTM models were successfully built and trained to classify text as AI-generated or human-written. The LSTM model exhibited slightly better performance with an accuracy of around 87% on the test dataset. No transfer learning techniques were employed as satisfactory results were achieved using standard deep learning architectures.
-
-**Connect with Me**
-
-- [LinkedIn](https://www.linkedin.com/in/zulqarnain-ahmed)
-- [GitHub](https://github.com/ziko-ahmed)
